@@ -1,6 +1,6 @@
 # 👕 AI Clothing Detection Agent
 
-This project uses your webcam to detect clothing type and color using a pretrained ResNet model. Built with Streamlit, PyTorch, and OpenCV.
+This project uses your webcam to detect clothing type and color using a pretrained ImageNet model. Built with Streamlit, PyTorch, and OpenCV.
 
 ## ✨ Features
 - Live webcam clothing detection
